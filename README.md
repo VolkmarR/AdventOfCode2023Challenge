@@ -9,8 +9,8 @@
 
 ## How to participate
 
-* First you have to register on the site [adventofcode.com](https://adventofcode.com/2022/auth/login). I recommend to use your GitHub user. 
-* Then you can join the [privat leaderboard](https://adventofcode.com/2022/leaderboard/private) with the code 377318-d1765890
+* First you have to register on the site [adventofcode.com](https://adventofcode.com/2023/auth/login). I recommend to use your GitHub user. 
+* Then you can join the [privat leaderboard](https://adventofcode.com/2023/leaderboard/private) with the code 377318-d1765890
 
 ## Prizes
 
